@@ -6,7 +6,7 @@
 🇰🇷 서버 개발을 기반으로 팀과 함께 성장하는 개발자가 되고자 합니다.
 
 💡 Spring Boot · Spring Batch · Quartz  
-🧩 React · Vue · Redux · Recoil · Zustand  
+🧩 React · Vue · Redux · Recoil · Zustand · Tanstack  
 🔐 Azure SSO · OAuth2 · Gateway Token Flow  
 🗄 Oracle · MySQL · Tibero · PostgreSQL  
 🛠 Docker · IntelliJ · VSCode · Git · Linux
