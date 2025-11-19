@@ -9,7 +9,7 @@
 🧩 React · Vue · Redux · Recoil · Zustand · Tanstack  
 🔐 Azure SSO · OAuth2 · Gateway Token Flow  
 🗄 Oracle · MySQL · Tibero · PostgreSQL  
-🛠 Docker · IntelliJ · VSCode · Git · Linux
+🛠 Docker · IntelliJ · VSCode · Git · Linux  
 ⚙️ pnpm · Yarn Berry · Webpack · Vite · Gradle (Build & Tooling)
 
 ---
